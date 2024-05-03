@@ -25,8 +25,9 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+![Projimg](https://github.com/Cjsrodrigo/Blog-preview-card/assets/154842867/23da208c-89a6-4523-87b5-af6fddf09c73)
 
-Projimg.png
+
 
 ### Links
 
