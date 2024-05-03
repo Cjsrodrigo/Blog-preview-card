@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Cjsrodrigo/Cjsrodrigo.github.io)
-- Live Site URL: [GitPages](https://github.com/Cjsrodrigo/Cjsrodrigo.github.io)
+- Live Site URL: [GitPages]([[https://github.com/Cjsrodrigo/Cjsrodrigo.github.io](https://cjsrodrigo.github.io)](https://cjsrodrigo.github.io))
 
 ## My process
 
